@@ -1,0 +1,131 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Yessana Hijab"
+  content: "Dapatkan produk-produk menarik Yessana Hijab dari distributor resmi di Yogyakarta."
+  image: "images/ulfi3.png"
+  button:
+    enable: true
+    label: "Lihat Koleksi Hijab"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Bergo Ulfi Yessana"
+  image: "images/ulfi2.jpeg"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "DETAIL HIJAB"
+      icon: "tf-document3"
+      content: "Pad hijab terdapat bordir Y (Logo Yessana). Desain cutting depan hijab mengerucut. Aksen kepang dibagian depan hijab. Kombinasi warna list dibagian kepang. Berlabel Yessana dibagian depan hijab"
+
+      # feature item loop
+    - title: "Harga"
+      icon: "tf-ion-ios-pricetags-outline"
+      content: "Rp. 94.500"
+
+      # feature item loop
+    - title: "Materials"
+      icon: "tf-ion-ios-compose-outline"
+      content: "Jersey Arsy"
+
+  # feature at the right of the image
+  right_side:
+      # feature item loop
+    - title: "7 Warna Pilihan"
+      icon: "tf-ion-ios-color-filter-outline"
+      content: "Black, Forest Elf, Lemonade, Mauvewood, Medallion, Ocean Wave, Wild Orchid"
+
+      # feature item loop
+    - title: "Karakteristik bahan"
+      icon: "tf-ion-ios-compose-outline"
+      content: "Lembut, elastis dan tebal. Tidak menerawang. Tidak panas ketika dipakai. Bahan terkesan jatuh saat dipakai"
+
+    # feature item loop
+    - title: "DETAIL UKURAN"
+      icon: "tf-clipboard4"
+      content: "Lingkar Muka : 26cm - 26.5cm | Panjang Depan : 49cm | Panjang Belakang : 86cm"
+
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/ulfi4.jpeg"
+  title: "Desain Cocok Baik Formal Atau Casual"
+  content:
+    "Pad hijab terdapat bordir Y (Logo Yessana). Desain cutting depan hijab mengerucut. Aksen kepang dibagian depan hijab. Kombinasi warna list dibagian kepang. Berlabel Yessana dibagian depan hijab
+    <br><br>
+    💎 Warna Tersedia: 👇<br>
+    - Black<br>
+    - Forest Elf<br>
+    - Lemonade<br>
+    - Mauvewood<br>
+    - Medallion<br>
+    - Ocean Wave<br>
+    - Wild Orchid"
+
+############################# About Product #######################
+about_product:
+  enable: false
+  title: "Why Choose Apple Watch"
+  items:
+
+    - image: "images/showcase/showcase-4.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+
+    - image: "images/showcase/showcase-3.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: false
+  title: "Koleksi Terbaru"
+
+################################## Subscription ###################
+subscription:
+  enable: false
+  bg_image: "images/call-to-action.jpg"
+  title: "Jagan Lewatkan Update Dari Mewlena Shop"
+  content: "Dapatkan Diskon, Produk, Terbaru, Kupon, Dll"
+  placeholder: "Alamat Email"
+
+############################## Testimonial ##########################
+
+testimonial:
+  enable: false
+  title: "Watch Review"
+  testimonial_item:
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

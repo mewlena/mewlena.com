@@ -1,0 +1,19 @@
+# Ignore Git here
+.git
+
+# But not these files...
+!.gitignore
+
+public/
+.hugo_build.lock
+Thumbs.db
+.DS_Store
+.dist
+.tmp
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+Public
+resources

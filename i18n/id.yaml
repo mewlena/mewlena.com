@@ -1,0 +1,29 @@
+- id: "add_to_cart"
+  translation: "Masukan Keranjang"
+  
+- id: "send"
+  translation: "Kirim"
+  
+- id: "subscribe"
+  translation: "Langganan"
+  
+- id: "read_more"
+  translation: "Baca Selengkapnya"
+  
+- id: "email"
+  translation: "Email"
+  
+- id: "message"
+  translation: "Pesan"
+  
+- id: "name"
+  translation: "Nama"
+
+- id: "whatsapp_number"
+  translation: "6282241203377"
+
+- id: "whatsapp_atc"
+  translation: "Pesan Lewat WhatsApp"
+
+- id: "whatsapp_txt"
+  translation: "Halo Mewlena Shop, Saya mau order"

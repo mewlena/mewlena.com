@@ -1,0 +1,23 @@
+{{ define "main" }}
+<!-- perlu di ganti -->
+<section class="feature-list section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <h1>{{.Title}}</h1>
+      </div>
+    </div>
+    {{ $paginator := .Paginate (.Data.Pages) 20 }}
+    {{ range $paginator.Pages }}
+    <div class="row mb-40">
+      <div class="col-md-6 align-self-center text-center text-md-left">
+        <div class="content">
+          <a href="{{ .Permalink }}" class="btn btn-main btn-main-sm">{{ .Title }}</a>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

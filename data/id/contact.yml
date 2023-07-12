@@ -1,0 +1,19 @@
+office:
+  enable: true
+  title : "Alamat"
+  mobile : "0822-4120-3377"
+  email : "halo@mewlena.com"
+  location : "Mantrijeron, Yogyakarta"
+  content : "Perum Kuta Kuna B-13. Dukuh RT 83 RW 18. Gedong Kiwo"
+
+opening_hours:
+  enable: true
+  title : "Jam Layanan"
+  day_time:
+    - "Senin: 8:00 s/d 16:00"
+    - "Selasa: 8:00 s/d 16:00"
+    - "Rabu: 8:00 s/d 16:00"
+    - "Kamis: 8:00 s/d 16:00"
+    - "Jumat: 8:00 s/d 16:00"
+    - "Sabtu: 9:00 s/d 15:00"
+    - "Minggu: 9:00 s/d 15:00"
