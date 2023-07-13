@@ -1,6 +1,6 @@
 ---
 title: "SAVORA Daily Hijab Tali belakang Quail Hijab Bahan Jersey"
-date: 2023-04-27T07:34:07+07:00
+date: 2023-07-13T07:34:07+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "160"
