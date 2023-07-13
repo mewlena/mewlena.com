@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Yessana Hijab"
-  content: "Dapatkan produk-produk menarik Yessana Hijab dari distributor resmi di Yogyakarta."
-  image: "images/ulfi3.png"
+  title: "Mewlena Shop"
+  content: "Dapatkan produk-produk menarik Yessana Hijab dan Quail Hijab dari distributor resmi di Yogyakarta."
+  image: "images/mewlena2.png"
   button:
     enable: true
     label: "Lihat Koleksi Hijab"
