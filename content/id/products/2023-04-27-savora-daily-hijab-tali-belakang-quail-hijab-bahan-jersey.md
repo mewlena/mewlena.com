@@ -10,10 +10,10 @@ price: "65,000.00"
 google_drive:
   enable: true
   pics:
+  - url: 1VGG8eI9zUpIlXN957dHec36K2_BRB90N
   - url: 12zNm6tuD8Ip5cDDLLe4tKkWev6k4Tmjb
   - url: 18Vb9u55dtzp8IwTu9wRYlxfsHKYqa0E3
   - url: 12Z8kq5T9d8vLQ4fQWoR0qUy64ZLeNdxs
-  - url: 13KpaYnwl5PStnwJhROVCDZz_CCA0JTcQ
 
 draft: false
 ---
