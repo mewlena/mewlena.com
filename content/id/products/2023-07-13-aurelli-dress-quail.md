@@ -2,7 +2,7 @@
 title: "Aurelli Dress by Quail"
 date: 2023-07-13T17:31:33+07:00
 collections: ["dress", "Quail"]
-brands: "Mewlena"
+brands: "Quail"
 grams: "520"
 description : "Uliya leging set 3-4 th"
 price: "216,000.00"
@@ -18,6 +18,34 @@ google_drive:
 draft: false
 ---
 
-AURELLI DRESS
+ANNIRA SCARF
 
-seragaman bresmaid bisa dong pakai aurelli dress atau buat kondangan juga bisa nih gils warnanya girly bangett 😍💖 Seriannya warna cantik, sudah ada signature labelnya jadi kelihatan mewah. Bahan yang dipakai Kenzie strech mix tulle premium. Fix kalo beli ini, kamu jadi pusat perhatian 🌸 beli lebih banyak bisa lebih ekonomis 💖 
+Matterial : Voal Paris Premium
+
+Price : IDR 45.500
+
+Detail :
+
+- Bahan Adem dan mudah dibentuk
+- Lembut, menyerap keringat
+- Terdapat Label Yessana dibagian ujung scarf
+- Pin Ori Yessana dibagain belakang
+ 
+Size : 115cm x 115cm
+
+Warna :
+
+- Beige
+- Black
+- Broken White
+- Endless Sky
+- Fiery Red
+- Forest
+- Glacier Gray
+- Moccha Mousse
+- Night Owl
+- Soft Dusty
+- Soft Green 
+- Wisteria
+
+Serian : Warna
