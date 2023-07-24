@@ -1,6 +1,6 @@
 ---
-title: "FARLA Casual Daily Hijab Jersey by Quail Hijab"
-date: 2023-02-25T22:02:31+07:00
+title: " Casual Daily Hijab Jersey by Quail Hijab"
+date: 2023-07-24T22:02:31+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "295"
@@ -10,8 +10,8 @@ price: "69,000.00"
 google_drive:
   enable: true
   pics:
+  - url: 1KXrRd99c0WeDOeuVfA6Ch9ygeDhH14k6
   - url: 1eR54-AXhY6VxSF8jZEpARazZjYQX3EhR
-  - url: 
   - url: 
   - url: 
 

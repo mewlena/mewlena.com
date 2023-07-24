@@ -1,6 +1,6 @@
 ---
 title: "SAKINAH Khimar dua layer hiasan permata tali belakang Quail Hijab bahan cerutty"
-date: 2023-01-12T07:28:44+07:00
+date: 2023-07-24T07:28:44+07:00
 collections: ["Khimar", "Quail"]
 brands: "Quail"
 grams: "220"
@@ -10,15 +10,15 @@ price: "95,000.00"
 google_drive:
   enable: true
   pics:
+  - url: 1g405uEMhD_vMq4qCbrEAZEwIuqoUL8bi
   - url: 1TLbHm93s4GGUfarUI1WWgTYtov7xEY8H
   - url: 1TBc3rZ21_fjxYZrUsqbP55Jc_tc8dEX2
   - url: 1Jl6ReQPan5NuDgQ85k7iU_yJ6x0IKWqg
-  - url: 1Gzm_rq8iGE_EVSA26UmH33AiFLHwHKz4
 
 draft: false
 ---
 
-Khimar dua layer dengan hiasan permata yg manis di bagian depan. Recomended."
+hijab dengan ukuran standar memang masih jadi idaman quail lovers, karena simple dan nyaman buat aktivitas sehari-hari , bisa nih coba sakinah casual hijab , ada detail permata juga bikin hijab makin manis 🥰😍
 
 --------    
  
