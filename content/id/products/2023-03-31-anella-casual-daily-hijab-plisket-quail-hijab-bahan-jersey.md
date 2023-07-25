@@ -1,6 +1,6 @@
 ---
 title: "ANELLA Casual Daily HIjab plisket Quail Hijab bahan jersey"
-date: 2023-03-31T05:00:17+07:00
+date: 2023-07-24T05:00:17+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "215"

@@ -1,5 +1,5 @@
 ---
-title: " Casual Daily Hijab Jersey by Quail Hijab"
+title: "FARLA Casual Daily Hijab Jersey by Quail Hijab"
 date: 2023-07-24T22:02:31+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"

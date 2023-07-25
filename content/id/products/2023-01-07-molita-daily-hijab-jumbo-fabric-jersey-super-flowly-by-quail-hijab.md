@@ -1,6 +1,6 @@
 ---
 title: "MOLITA Daily Hijab Jumbo Fabric Jersey Super Flowly by Quail Hijab"
-date: 2023-01-07T16:11:24+07:00
+date: 2023-07-25T16:11:24+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "280"
@@ -10,9 +10,9 @@ price: "73,000.00"
 google_drive:
   enable: true
   pics:
+  - url: 1GSRX1EkAwU0Jp4lOuroTx2jcZYqE7mkj
   - url: 1jbjC-b4C7k6HTgLAG1GC3KVuihJDw56a
   - url: 1tfXJAIuuelLOOLAkGaMID9Qy0p0xiTgd
-  - url: 
   - url: 
 
 draft: false
