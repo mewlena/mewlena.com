@@ -1,6 +1,6 @@
 ---
 title: "SAKINAH Khimar dua layer hiasan permata tali belakang Quail Hijab bahan cerutty"
-date: 2023-07-24T07:28:44+07:00
+date: 2023-07-26T07:28:44+07:00
 collections: ["Khimar", "Quail"]
 brands: "Quail"
 grams: "220"
@@ -11,9 +11,9 @@ google_drive:
   enable: true
   pics:
   - url: 1g405uEMhD_vMq4qCbrEAZEwIuqoUL8bi
+  - url: 1g405uEMhD_vMq4qCbrEAZEwIuqoUL8bi
   - url: 1TLbHm93s4GGUfarUI1WWgTYtov7xEY8H
   - url: 1TBc3rZ21_fjxYZrUsqbP55Jc_tc8dEX2
-  - url: 1Jl6ReQPan5NuDgQ85k7iU_yJ6x0IKWqg
 
 draft: false
 ---

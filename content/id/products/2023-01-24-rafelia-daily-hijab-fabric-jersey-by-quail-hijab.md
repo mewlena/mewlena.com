@@ -1,6 +1,6 @@
 ---
 title: "RAFELIA Daily Hijab Fabric Jersey by Quail Hijab"
-date: 2023-01-24T17:40:18+07:00
+date: 2023-07-26T17:10:18+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "170"
@@ -10,10 +10,10 @@ price: "66,000.00"
 google_drive:
   enable: true
   pics:
+  - url: 1wKSr3KmZlDj7TEZHsLf_bj3WR_v9JNKF
   - url: 19Q4MK5NG0Qkic-Mmu0ey3hr9pJiUQdlA
   - url: 1Kw9aBUvXDcJx3tIEaYi_ZmSOhoxWLe7k
   - url: 1TDZR_6tUleGNDMS4YqnxykOd_aVgPab7
-  - url: 
 
 draft: false
 ---

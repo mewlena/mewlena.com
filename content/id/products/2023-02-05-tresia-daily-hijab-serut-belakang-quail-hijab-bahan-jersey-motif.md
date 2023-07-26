@@ -1,6 +1,6 @@
 ---
 title: "TRESIA Daily Hijab Serut belakang Quail Hijab Bahan Jersey motif"
-date: 2023-02-05T16:36:52+07:00
+date: 2023-07-26T16:36:52+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "150"
@@ -10,8 +10,8 @@ price: "54,000.00"
 google_drive:
   enable: true
   pics:
+  - url: 1NdnuVVQjEss4HOslk2djfAx80JvsEt3l
   - url: 1a2T53GRSvE9efzwqE9_WciYnzvLQx1-v
-  - url: 
   - url: 
   - url: 
 
