@@ -18,3 +18,4 @@ google_drive:
 draft: false
 ---
 
+Casual daily hijab ada yang baru lagi hloo kenalan nih namanya Adriana pakai softpad antem dan bahan airflow premium ❤️ Yg salfok sama jilbabnya, yuk adopsi produk adriana sekarang juga ! ada 10 varian warna yang manis-manis 🌸 bagian depan dan belakang full menutup aurat ya bund jadi aman dipakai saat ada kajian 👍
