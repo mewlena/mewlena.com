@@ -89,6 +89,15 @@ name = "Kebijakan Privasi"
 url = "privasi/"
 weight = 4
 
+[[menu.footer]]
+name = "Gudang"
+url = "gudang/"
+weight = 5
+
+[[menu.footer]]
+name = "Ready Stok"
+url = "ready/"
+weight = 6
 
 ########################### Default parameters ##########################
 [params]
@@ -140,8 +149,8 @@ weight = 2
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 [permalinks]
-  products = "/products/:title/"
+products = "/products/:title/"
 
 [taxonomies]
-  brand = 'brands'
-  collection = 'collections'
+brand = 'brands'
+collection = 'collections'
