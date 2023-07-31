@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-#### _UPDATE STOK 30 JULI 2023_
+#### _UPDATE STOK 31 JULI 2023_
 
 _ADHISTY SIZE M_
 
@@ -151,8 +151,6 @@ hitam
 
 _ADVIKA_
 
-maroon
-
 abu
 
 dongker
@@ -175,6 +173,8 @@ maroon
 
 abu
 
+hazelnut
+
 mauve
 
 dongker
@@ -184,6 +184,8 @@ ungusalem
 olive
 
 khaky
+
+hitam
 
 _AFSANA_
 
@@ -727,8 +729,6 @@ latte
 
 maroon
 
-stone
-
 _AZIMA_
 
 khaky
@@ -924,8 +924,6 @@ mint
 hazelnut
 
 grey
-
-hijau
 
 sand
 
@@ -1274,8 +1272,6 @@ olive
 pink
 
 grey
-
-black
 
 _DHARA_
 
@@ -2755,8 +2751,6 @@ dusty pink
 
 _MAISELA DRESS SIZE XL_
 
-dustypink
-
 blue
 
 _MAISELA DRESS SIZE XXL_
@@ -3034,10 +3028,6 @@ _MUKENA LAYSA ANAK SIZE M_
 flower navy
 
 flower green
-
-_MUKENA LAYSA ANAK SIZE L_
-
-flower navy
 
 _MUKENA LESTY_
 
@@ -3953,8 +3943,6 @@ hazelnut
 
 maroon
 
-dongker
-
 abu
 
 _SAKIYYA_
@@ -4059,7 +4047,15 @@ maroon
 
 pns
 
+latte
+
+mauve
+
 cream
+
+Sage green
+
+teal blue
 
 _SHAFWANA_
 
@@ -4505,8 +4501,6 @@ hitam
 
 pink
 
-hazelnut
-
 olive
 
 navy
@@ -4640,6 +4634,8 @@ ungusalem
 hitam
 
 latte
+
+_VINESSA_
 
 _VINKA_
 

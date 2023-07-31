@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 300723
+### UPDATE STOCK MEWLENA 310723
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
@@ -21,7 +21,7 @@ AFIYA 62: hitam3
 
 AFRIDA 68: Hazelnut
 
-AFSANA 70: teracota, white
+AFSANA 70: white, hitam, mocca?
 
 AIMEE 64: grey3
 
@@ -509,7 +509,7 @@ ZIRIN 58: hazelnut, abumuda, olive, abutua, hitam2, caramel
 
 ZULFA 82: olive, cokmil, abu
 
-ZULVIA 56: Ungudusty, salem, abu, hazelnut, coklat, latte
+ZULVIA 56: Ungudusty, abu, hazelnut, coklat, latte
 
 DRESS/GAMIS
 
