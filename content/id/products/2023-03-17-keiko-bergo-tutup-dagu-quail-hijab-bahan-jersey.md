@@ -1,6 +1,6 @@
 ---
 title: "KEIKO Bergo tutup dagu Quail Hijab Bahan Jersey"
-date: 2023-03-17T08:06:28+07:00
+date: 2023-07-31T08:06:28+07:00
 collections: ["InstantHijab", "Quail"]
 brands: "Quail"
 grams: "250"
@@ -10,10 +10,10 @@ price: "56,000.00"
 google_drive:
   enable: true
   pics:
-  - url: 1QIDkNjSOu7wrEkT9Pb43swqQz6JanBYz
-  - url: 1M0iM7KkROCrHgW1UGlWMtFo-Snq0FFkP
-  - url: 1Kx9wrkFoRv1a5dKNf9c47Z_K1BIKW8Dc
-  - url: 1JEW4iWplorcgzN4GOSet005bUs8gmjm4
+  - url: 16Qh9G4q_AJyPh0BkiRs2VnHXQvjxp5FE
+  - url: 1b2ozg8Qv-JZtTGiitcjO_fpvL3g6qiEL
+  - url: 12GQGj2i1f332BUtHR6cZnbNsxDZjqln6
+  - url:
 
 draft: false
 ---
