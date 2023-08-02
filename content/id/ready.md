@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 310723
+### UPDATE STOCK MEWLENA 020823
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
@@ -131,9 +131,9 @@ DESYA 75: hitam
 
 DIANTI 59: maroon, bluesky
 
-DINATA 54: latte, marun, dongker, abu, (hitam2, latte, beautyYelow, navy, hazelnut2 , olive, lilac)
+DINATA 54: latte, dongker, abu, (hitam2, latte, beautyYelow, navy, hazelnut2 , olive, lilac)
 
-DONITA 54: Latte (hitam2, olive, abu, Dongker2, Khaky, mauve)
+DONITA 54: Latte (hitam2, olive, abu, Dongker2, Khaky)
 
 DYARA 80: hitam
 
@@ -249,7 +249,7 @@ KARINA 55: Dongker2, Cokmud, Coksu, hitam2, abumuda, olive2, maroon, hazelnut
 
 KAYISA 72: hitam
 
-KEIKO: white (ungumuda, salem?)
+KEIKO 56: white (ungumuda, salem?)
 
 KHALIDA 72: hitam
 
@@ -381,8 +381,6 @@ SAHARA 72: hitam2
 
 SAKIYYA 80: hitam
 
-SAMIRA 70: cokmil2, maroon
-
 SANZA 50: olive2
 
 SARAH voal polos 92: abumuda, khaky, ungusalem2, dongker, mint, latte
@@ -509,7 +507,7 @@ ZIRIN 58: hazelnut, abumuda, olive, abutua, hitam2, caramel
 
 ZULFA 82: olive, cokmil, abu
 
-ZULVIA 56: Ungudusty, abu, hazelnut, coklat, latte
+ZULVIA 56: Ungudusty, hazelnut, coklat, latte
 
 DRESS/GAMIS
 
@@ -683,7 +681,7 @@ ALISIA 270: Latte, sand2, salmon
 
 ALIQA 280: Denim, White2
 
-AMERA 210: salem2, caramel
+AMERA 210: salem2
 
 HAMIDA 260: Grey, Latte
 
