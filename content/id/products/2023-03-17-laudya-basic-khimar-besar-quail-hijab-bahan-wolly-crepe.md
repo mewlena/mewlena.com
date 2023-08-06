@@ -1,6 +1,6 @@
 ---
 title: "Laudya Basic khimar besar Quail Hijab bahan Wolly Crepe"
-date: 2023-08-02T05:57:12+07:00
+date: 2023-08-05T05:57:12+07:00
 collections: ["Khimar", "Quail"]
 brands: "Quail"
 grams: "250"

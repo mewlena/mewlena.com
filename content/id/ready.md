@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 020823
+### UPDATE STOCK MEWLENA 050823
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
@@ -17,7 +17,7 @@ ADZANI 88: hitam
 
 ADZWA 60: mocca2
 
-AFIYA 62: hitam3
+AFIYA 62: hitam2, abu, hazelnut, mauve2, dongker2, latte, khaky
 
 AFRIDA 68: Hazelnut
 
@@ -97,7 +97,7 @@ BRIANA Voal 125: Olive
 
 CANDRIKA 110: salem
 
-CARITHA 66: hitam3, latte2, silver, hazelnut2, dongker2, marun, abu
+CARITHA 66: hitam2, latte2, silver, hazelnut2, dongker2, marun, abu
 
 CAROLINE 89: silver, maroon, olive
 
@@ -203,7 +203,7 @@ FLORENZA 96: hitam, abu-hitam, abu-ungu2, cokmil, salem2
 
 FRANDA 70: coksu2, maroon
 
-FRISELLA 72:(latte), (hitam5, pink, mauve, hazelnut)
+FRISELLA 72:(hitam5, pink, mauve, hazelnut)
 
 GARVITA 90: cokmil, abu, salem, mocca2, dongker, hitam2, peach
 
@@ -249,7 +249,7 @@ KARINA 55: Dongker2, Cokmud, Coksu, hitam2, abumuda, olive2, maroon, hazelnut
 
 KAYISA 72: hitam
 
-KEIKO 56: white (ungumuda, salem?)
+KEIKO 56: white (ungumuda) (hitam3, navy, hazelnut2, latte2, stone, olive, salem, maroon, coklat)
 
 KHALIDA 72: hitam
 
@@ -681,7 +681,7 @@ ALISIA 270: Latte, sand2, salmon
 
 ALIQA 280: Denim, White2
 
-AMERA 210: salem2
+AMERA 210: salem
 
 HAMIDA 260: Grey, Latte
 
@@ -939,7 +939,7 @@ DARLA 298: AquaBlueM, MossGreenM, CroffleM, BlackM, LatteM, VioletM
 
 DAPHNEE 335: NudeM, MarunM, LaceM, pupusM, BlackM
 
-DESWITA 244.5M, 255.5XL: RedwoodM, BlackM3, BlackXL2, RedwoodXL
+DESWITA 244.5M, 255.5XL: RedwoodM, BlackM2, BlackXL2, RedwoodXL
 
 EVELYN BLOUSE 175.5: peony L
 
