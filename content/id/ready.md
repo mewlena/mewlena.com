@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 050823
+### UPDATE STOCK MEWLENA 100823
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
@@ -21,7 +21,7 @@ AFIYA 62: hitam2, abu, hazelnut, mauve2, dongker2, latte, khaky
 
 AFRIDA 68: Hazelnut
 
-AFSANA 70: white, hitam, mocca?
+AFSANA 70: white, mocca?
 
 AIMEE 64: grey3
 
@@ -103,7 +103,7 @@ CAROLINE 89: silver, maroon, olive
 
 CASTLE VOAL 199: black
 
-CELSIA 68: Hitam2, hazelnut
+CELSIA 68: Hitam2
 
 CHANA 62: dongker
 
@@ -189,7 +189,7 @@ FEBIOLA 95: Hitam, rasberry
 
 FEISYA 56: hitam, coksu, salem2
 
-FELDIYA 66: maroon (hitam5, mauve2, dongker, hazelnut2, khaky, ungusalem, olive, latte2)
+FELDIYA 66: maroon (hitam3, mauve2, dongker, hazelnut2, khaky, ungusalem, olive, latte2)
 
 FELLA 64: Hitam
 
@@ -249,7 +249,7 @@ KARINA 55: Dongker2, Cokmud, Coksu, hitam2, abumuda, olive2, maroon, hazelnut
 
 KAYISA 72: hitam
 
-KEIKO 56: white (ungumuda) (hitam3, navy, hazelnut2, latte2, stone, olive, salem, maroon, coklat)
+KEIKO 56: ungumuda,hitam2, navy, hazelnut2, latte2, stone, olive, salem, maroon, coklat
 
 KHALIDA 72: hitam
 
@@ -267,7 +267,7 @@ LAUDYA 66: abu, dongker, maroon, olive, salmon, mocca
 
 LAVANYA 70: hitam2, dongker2, salem, kuning, coksu, mocca, maroon
 
-LAVEYA Square 75: darkcoffe2, latte, mauve4, softpeach
+LAVEYA Square 75: darkcoffe2, mauve4, softpeach
 
 LAVIRA 105: hitam
 
@@ -591,7 +591,7 @@ HAZZA 175: BlackXL, SalemXL
 
 ILONA ONESET 175: NavyXL, babypinkM
 
-JEANNA 245: mauveXL, navyXXL, mauveXXL2
+JEANNA 245: mauveXL, mauveXXL2
 
 JIHAN 260: White M, White XXL
 
@@ -659,7 +659,7 @@ TATJANA 180: Hitam M
 
 THALIA 170: Black M, Black XXL, Green M, Green XL
 
-VALERIKA 180: blueM, emeraldM, navyM, blueXL, emeraldXL, navyXL, blueXXL, emeraldXXL
+VALERIKA 180: blueM, emeraldM, navyM, blueXL, emeraldXL, blueXXL, emeraldXXL
 
 VEENA 185: AbstractblueM, AbstractBlueXL, FlowerBlackXL
 
@@ -687,7 +687,7 @@ HAMIDA 260: Grey, Latte
 
 HEEZA 282: dustypurple
 
-LUMINA 260: NavyDaisy, LatteDaisy, PinkTulip2, NavyTulip
+LUMINA 260: NavyDaisy, LatteDaisy, PinkTulip2, NavyTulip, [Navy Tulip {sl - rtn}]
 
 MALIKA 290: sage green, latte2, lilac
 
@@ -748,6 +748,10 @@ ALIFAH 95: Almond, Moss, Slate, Vermillion, Black
 ALULA 78: Silver2
 
 ANGELA 85.5: Black, BW, Fawn, Navy
+
+ANNIRA seri 1 45.5: AVOCADO, BEIGE, BLACK 2, COCOA BROWN 2, ENDLESS SKY, FIERY RED, FOREST, GLACIAR GREY 2, MOCHA MOUSSE 2, NIGHT OWL, PALE BLUSH, SOFT GREEN, WHITE
+
+ANNIRA seri 2 45.5: BLACK 2, BLUE GRANITE 2, BROWNIE 2, ICE PALACE 2, NAVY 2, OLIVE NIGHT 2, SOFT DUSTY 2, TORTILLA 2, WISTERIA 2
 
 ANYA 92.5: Black
 
@@ -873,7 +877,7 @@ TANISHA 89.5: Black, Hazelnut, Sangria
 
 TISSA 94.5: Brick, Caramel, Latte2, Turquoise
 
-ULFI 94.5: Black, ForestElf, Lemonade, Mauvewood, Medallion
+ULFI 94.5: ForestElf, Lemonade
 
 UNSA 89.5: brown
 
@@ -977,7 +981,7 @@ ONE SET
 
 IYMEL anak: Cerise M, Buter XL
 
-LIVY 230.5: LilacM, PeonyM
+LIVY 230.5: LilacM
 
 \_
 
