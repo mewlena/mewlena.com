@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 100823
+### UPDATE STOCK MEWLENA 110823
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
@@ -17,7 +17,7 @@ ADZANI 88: hitam
 
 ADZWA 60: mocca2
 
-AFIYA 62: hitam2, abu, hazelnut, mauve2, dongker2, latte, khaky
+AFIYA 62: hitam, abu, hazelnut, mauve2, dongker2, latte, khaky
 
 AFRIDA 68: Hazelnut
 
