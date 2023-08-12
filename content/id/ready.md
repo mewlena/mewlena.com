@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 110823
+### UPDATE STOCK MEWLENA 120823
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
