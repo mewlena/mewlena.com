@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 120823
+### UPDATE STOCK MEWLENA 160823
 
 ADELYN PASHMINA 68: grey, salem, brokenwhite
 
@@ -17,7 +17,7 @@ ADZANI 88: hitam
 
 ADZWA 60: mocca2
 
-AFIYA 62: hitam, abu, hazelnut, mauve2, dongker2, latte, khaky
+AFIYA 62: abu, mauve2, dongker2, latte, khaky
 
 AFRIDA 68: Hazelnut
 
@@ -119,7 +119,7 @@ DAHLIA 125: Hitam
 
 DAVIELA 75: emerald-dongker
 
-DEALOVA ANAK 50: Bluesky2, Ungumuda
+DEALOVA ANAK 50: Bluesky, Ungumuda
 
 DELINDA 52: ungusalem, stone, cokmil, salem2, coksu2, dongker
 
@@ -253,7 +253,7 @@ KEIKO 56: ungumuda,hitam2, navy, hazelnut2, latte2, stone, olive, salem, maroon,
 
 KHALIDA 72: hitam
 
-KHALSYA 60: (hitam2)
+KHALSYA 60: (hitam)
 
 KIREI 62: hitam
 
@@ -317,8 +317,6 @@ NAYMA 52: kuning, bata, dongker2, latte2, pink
 
 NAZAMI 75: Mauve
 
-NAZEEFA 68: Khaky
-
 NAZIA 80: hitam2
 
 NAZIHA 70: hitam2
@@ -347,7 +345,7 @@ RAMSHA 52: hitam-pink, dongker-abumuda, coklat-kuning, abumuda-dongker3
 
 RANESHA 86: hitam
 
-RARA 50: white2, navy (coklat 10, coklat muda, dongker3, hazelnut, hitam, latte, olive, rose, salem, ungusalem, white 10, )
+RARA 50: white2, navy (coklat 10, coklat muda, dongker3, hazelnut, hitam, latte, olive, salem, ungusalem, white 10, )
 
 RAVENA 98: Hitam
 
@@ -421,7 +419,7 @@ SYAZANI 75: hitam
 
 SYIDHA 90: hitam
 
-THAFANA 66: hitam
+THAFANA 66: hazelnut2, rose, stone, olive, dongker2, ungusalem
 
 TALIA 58: dongker
 
@@ -439,7 +437,7 @@ TESSA 58: hitam
 
 TRESIA 54: Hitam2
 
-TSANI 48: maroon, olive, khaky, mauve
+TSANI 48: maroon, olive, khaky
 
 VOAL VANCOUVER HANDDRAWING 89: smokegrey
 
@@ -507,7 +505,7 @@ ZIRIN 58: hazelnut, abumuda, olive, abutua, hitam2, caramel
 
 ZULFA 82: olive, cokmil, abu
 
-ZULVIA 56: Ungudusty, hazelnut, coklat, latte
+ZULVIA 56: Ungudusty, coklat
 
 DRESS/GAMIS
 
@@ -681,13 +679,13 @@ ALISIA 270: Latte, sand2, salmon
 
 ALIQA 280: Denim, White2
 
-AMERA 210: salem
+AMERA 210: salem, caramel
 
 HAMIDA 260: Grey, Latte
 
 HEEZA 282: dustypurple
 
-LUMINA 260: NavyDaisy, LatteDaisy, PinkTulip2, NavyTulip, [Navy Tulip {sl - rtn}]
+LUMINA 260: NavyDaisy, LatteDaisy, PinkTulip, NavyTulip, [Navy Tulip {sl - rtn}]
 
 MALIKA 290: sage green, latte2, lilac
 
