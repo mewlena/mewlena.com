@@ -90,14 +90,24 @@ url = "privasi/"
 weight = 4
 
 [[menu.footer]]
+name = "Kebijakan Pengembalian"
+url = "pengembalian/"
+weight = 5
+
+[[menu.footer]]
+name = "Syarat & Ketentuan"
+url = "syarat"
+weight = 6
+
+[[menu.footer]]
 name = "Gudang"
 url = "gudang/"
-weight = 5
+weight = 7
 
 [[menu.footer]]
 name = "Ready Stok"
 url = "ready/"
-weight = 6
+weight = 8
 
 ########################### Default parameters ##########################
 [params]
