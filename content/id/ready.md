@@ -5,9 +5,9 @@ draft: false
 layout: page
 ---
 
-### UPDATE STOCK MEWLENA 160823
+UPDATE STOCK MEWLENA 110923
 
-ADELYN PASHMINA 68: grey, salem, brokenwhite
+ADELYN PASHMINA 68: salem, brokenwhite
 
 ADREENA 96: Hitam
 
@@ -21,11 +21,11 @@ AFIYA 62: abu, mauve2, dongker2, latte, khaky
 
 AFRIDA 68: Hazelnut
 
-AFSANA 70: white, mocca?
+AFSANA 70: white
 
 AIMEE 64: grey3
 
-AIRA 60: maroon, hitam
+AIRA 60: maroon
 
 AISYANA 90: abumuda
 
@@ -59,7 +59,7 @@ ANEKE 49: Abumuda
 
 ANELLA: hitam2, mauve
 
-ANINDA 66: olive, hazelnut2, maroon, abu2, latte
+ANINDA 66: olive, hazelnut, maroon, abu, latte
 
 ARMIA 60: hitam, stone, coksu, cokmil2, salem2, maroon
 
@@ -87,7 +87,7 @@ AZIYA 89: hitam
 
 BECKA 90: dongker, salmon
 
-BELAZA 75: Salem, Latte, Abu, Mauve, Dongker
+BELAZA 75: Salem, Abu
 
 BELLIANA 58: hazelnut2, dongker2, maroon
 
@@ -133,7 +133,7 @@ DIANTI 59: maroon, bluesky
 
 DINATA 54: latte, dongker, abu, (hitam2, latte, beautyYelow, navy, hazelnut2 , olive, lilac)
 
-DONITA 54: Latte (hitam2, olive, abu, Dongker2, Khaky)
+DONITA 54: (hitam2, olive, abu, Dongker2, Khaky)
 
 DYARA 80: hitam
 
@@ -201,9 +201,9 @@ FIZANIA 108: olive
 
 FLORENZA 96: hitam, abu-hitam, abu-ungu2, cokmil, salem2
 
-FRANDA 70: coksu2, maroon
+FRANDA 70: coksu, maroon
 
-FRISELLA 72:(hitam5, pink, mauve, hazelnut)
+FRISELLA 72:(hitam4, pink, mauve, hazelnut)
 
 GARVITA 90: cokmil, abu, salem, mocca2, dongker, hitam2, peach
 
@@ -249,7 +249,7 @@ KARINA 55: Dongker2, Cokmud, Coksu, hitam2, abumuda, olive2, maroon, hazelnut
 
 KAYISA 72: hitam
 
-KEIKO 56: ungumuda,hitam2, navy, hazelnut2, latte2, stone, olive, salem, maroon, coklat
+KEIKO 56: ungumuda,hazelnut, stone, olive, salem, coklat (bata, hitam2, navy, broken white, ungusalem, rose, marun)
 
 KHALIDA 72: hitam
 
@@ -261,15 +261,13 @@ KIYOKO 102: coksu, cokmil, maroon, silver, dongker
 
 KIYORA 95: White
 
-LALEA 72: hitam3
+LALEA 72: hitam2
 
-LAUDYA 66: abu, dongker, maroon, olive, salmon, mocca
+LAUDYA 66: olive, salmon, mocca
 
 LAVANYA 70: hitam2, dongker2, salem, kuning, coksu, mocca, maroon
 
-LAVEYA Square 75: darkcoffe2, mauve4, softpeach
-
-LAVIRA 105: hitam
+LAVEYA Square 75: darkcoffe2, mauve2, softpeach
 
 LENORA 65: salem2, latte
 
@@ -309,7 +307,7 @@ NAJMI 82: kuning
 
 NALLA 75: hitam
 
-NATALIE 65: Marun, Olive, Abu, Khaky
+NATALIE 65: Abu, Khaky
 
 NASTUSA 72: abu
 
@@ -333,7 +331,7 @@ RADELLA 68: hitam2
 
 RADEYA 98: salem2, abu, olive, dongker, hitam
 
-RAFELIA 66: mauve, dongker, hazelnut, Abu
+RAFELIA 66: mauve, dongker, Abu
 
 RAHMA 53: maroon, abutua
 
@@ -345,7 +343,7 @@ RAMSHA 52: hitam-pink, dongker-abumuda, coklat-kuning, abumuda-dongker3
 
 RANESHA 86: hitam
 
-RARA 50: white2, navy (coklat 10, coklat muda, dongker3, hazelnut, hitam, latte, olive, salem, ungusalem, white 10, )
+RARA 50: navy (coklat 10, coklat muda, dongker3, hazelnut, hitam, latte, olive, salem, ungusalem, white 8, )
 
 RAVENA 98: Hitam
 
@@ -353,7 +351,7 @@ REVALIA 105: Hitam, Abu
 
 RIELA 78: hitam2
 
-RIZVIA 99: hitam, pink
+RIZVIA 99: pink
 
 ROSALIA 82: babypink
 
@@ -419,7 +417,7 @@ SYAZANI 75: hitam
 
 SYIDHA 90: hitam
 
-THAFANA 66: hazelnut2, rose, stone, olive, dongker2, ungusalem
+THAFANA 66: hazelnut, rose, stone, olive, dongker2, ungusalem
 
 TALIA 58: dongker
 
@@ -469,7 +467,7 @@ YASMI 72: Hitam
 
 YOANA 55: Pink
 
-YUNNA 55: maroon, pink, dongker, hijautua, hitam
+YUNNA 55: pink, dongker, hijautua, hitam
 
 YUSRINA 78: mauve
 
@@ -481,17 +479,13 @@ ZARAYA 72: salempink
 
 ZAZIRA 54: hijaumuda, pink3
 
-ZAFIRA CADAR: hitam
-
-ZEFIRA 60: Hitam2, Salem
+ZEFIRA 60: Hitam, Salem
 
 ZEHMA 55: bata, abu, cokmil3, dongker
 
-ZEHNIA 84: hitam
-
 ZENDAYA PASHMINA 64: olive4, dongker, abutua, (Q= grey2)
 
-ZENALISA 65: Hazelnut2, Abu (hitam)
+ZENALISA 65: Hazelnut2, Abu
 
 ZERINA 68: mauve2, abu, olive2
 
@@ -499,13 +493,13 @@ ZIALIS ANAK 52: hijaumuda, hotpink2
 
 ZIARA 82: hitam
 
-ZIGGY 52: hijautua, biru, stone, kuning, dongker
+ZIGGY 52: hijautua, stone, kuning, dongker
 
 ZIRIN 58: hazelnut, abumuda, olive, abutua, hitam2, caramel
 
 ZULFA 82: olive, cokmil, abu
 
-ZULVIA 56: Ungudusty, coklat
+ZULVIA 56: Ungudusty
 
 DRESS/GAMIS
 
@@ -567,7 +561,7 @@ FATIKA 183: marunM
 
 FIORENA 220: denim M
 
-FLORENCE 190: CreamXL, GreyXL, DenimXL
+FLORENCE 190: GreyXL, DenimXL
 
 FLORINTA DRESS 210: black M
 
@@ -625,7 +619,7 @@ MARIZKA 240: Dustypink XL, MauveXL
 
 MALINDA 220: blackXL
 
-MELILA 200: Mocca XL, Denim XL
+MELILA 200: Mocca XL
 
 MERIDA 225: DustyPinkM, DustypinkXL
 
@@ -668,6 +662,8 @@ VIVIANE 229: purpleXL
 ZAINARA 260: navyM, hazelnutM, marunM, blackM, moccaXL, hazelnutXL
 
 ZALEA 210: Teracotta XL
+
+ZETHA 68: hitam2
 
 ZIVIA 150: polka pink M3, polka Emerald M, polka Kuning M
 
@@ -901,6 +897,8 @@ ANGELA 85.5: Black, Navy
 
 AYESHA 82.5: Arona
 
+AYESHA 123.5: BabyLavender, BarelyBlue, Black, GlassGreen, Khaki, Lovely, Pinkesque, Sage, TuscanOlive, Woodrose
+
 AYUMNA 124.5: CoffeeBeen2, Lake Green, Merlot2, MoonLight4
 
 JAWHARA 117.5: AgateGray, BurnRusset, DustyTeal
@@ -930,6 +928,8 @@ AZALEA M 190: Peach
 BELIZA M 235.5: black M2
 
 CASSANDRA 223.5: Milo, Mossgreen, Nude2
+
+CHIARA 225.5: Umber M, Broken White M
 
 CLARA : Carolina L255
 

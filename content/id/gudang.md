@@ -5,7 +5,7 @@ draft: false
 layout: page
 ---
 
-#### _UPDATE STOK 2 AGUSTUS 2023_
+## UPDATE STOK 11 SEPTEMBER 2023
 
 _ADHISTY SIZE M_
 
@@ -31,6 +31,12 @@ lilac
 
 salem
 
+_ADISTA_
+
+emerald
+
+coksu
+
 _ADSILA PASHMINA_
 
 dusty purple
@@ -45,33 +51,57 @@ lime
 
 maroon
 
-_ANDARA DRESS SIZE XL_
+hazelnut
 
-lime
+mauve
+
+black
+
+white
 
 blue
+
+_ANDARA DRESS SIZE XL_
 
 hazelnut
 
-maroon
+blue
 
 _ANDARA DRESS SIZE XXL_
 
+mauve
+
 lime
+
+hazelnut
 
 blue
 
-_ADEEVA VOAL_
+_ADVIKA_
+
+abu
+
+mauve
+
+dongker
+
+latte
+
+olive
+
+ungusalem
+
+khaky
 
 maroon
 
-teal blue
+hazelnut
+
+hitam
+
+_ADEEVA VOAL_
 
 cream
-
-lavender
-
-Sage green
 
 hijau pns
 
@@ -81,19 +111,9 @@ abu
 
 maroon
 
-olive
-
 dongker
 
-mauve
-
-ungusalem
-
 _AINARA_
-
-abu
-
-olive
 
 khaky
 
@@ -107,19 +127,29 @@ emerald
 
 _ADELYN_
 
-salem
-
-pink
-
 broken white
-
-blue
 
 _AIRA_
 
 olive
 
 coklat muda
+
+latte
+
+dongker
+
+hazelnut
+
+maroon
+
+salem
+
+ungusalem
+
+stone
+
+ungumuda
 
 _ADREENA_
 
@@ -149,45 +179,47 @@ ungusalem
 
 hitam
 
-_ADVIKA_
-
-abu
-
-dongker
-
-mauve
-
-khaky
-
-olive
-
-latte
-
-hazelnut
-
-ungusalem
-
 _AFIYA_
 
 maroon
 
+hitam
+
 abu
+
+dongker
+
+olive
+
+mauve
+
+latte
+
+ungusalem
+
+khaky
 
 hazelnut
 
-mauve
+_AFSANA_
+
+abu
+
+mocca
+
+olive
+
+salmon
 
 dongker
 
 ungusalem
 
-olive
-
 khaky
 
-hitam
+hazelnut
 
-_AFSANA_
+hitam
 
 ungumuda
 
@@ -210,6 +242,26 @@ pink
 ungu trasi
 
 olive
+
+_ALNAIRA_
+
+mauve
+
+olive
+
+latte
+
+dongker
+
+khaky
+
+maroon
+
+ungusalem
+
+abu
+
+hazelnut
 
 _AIRUM DRESS SIZE XL_
 
@@ -253,17 +305,11 @@ maroon
 
 _ALODIE ABAYA SIZE M_
 
-olive
-
 grey
-
-mocca
 
 _ALODIE ABAYA SIZE XL_
 
 olive
-
-grey
 
 mocca
 
@@ -280,8 +326,6 @@ yellow
 _ALZENA_
 
 peach
-
-caramel
 
 _ANDIN_
 
@@ -311,27 +355,19 @@ khaky
 
 olive
 
-maroon
-
-latte
-
 ungusalem
-
-dongker
 
 abu
 
-hitam
-
 hazelnut
-
-mauve
 
 _ANEZKA_
 
 soft denim
 
-haazelnut
+coklat
+
+hazelnut
 
 olive
 
@@ -357,8 +393,6 @@ mint
 
 pink
 
-mauve
-
 _AIDA_
 
 pink
@@ -369,9 +403,15 @@ olive
 
 hitam
 
-_ARISTA_
+_ARIFA_
 
-olive
+maroon
+
+kuning
+
+emerald
+
+tosca
 
 pink
 
@@ -379,15 +419,35 @@ ungumuda
 
 _ARSERA_
 
-pink
+orange
+
+baby pink
 
 lime
 
-emerald
-
 maroon
 
-orange
+emerald
+
+_ARISTA_
+
+pink
+
+ungumuda
+
+_ARIELLA DRESS SIZE M_
+
+navy
+
+olive
+
+brown
+
+cream
+
+_ARIELLA DRESS SIZE XXL_
+
+brown
 
 _AMEENA ANAK DRESS SIZE S_
 
@@ -409,6 +469,14 @@ latte
 
 deep purple
 
+_ANASTASIA DRESS SIZE M_
+
+pink
+
+bluesky
+
+raspberry
+
 _ANESHKA BLOUSE SIZE XL_
 
 pink
@@ -422,12 +490,6 @@ maroon
 grey
 
 _ADRIANA_
-
-blue
-
-black
-
-navy
 
 grey
 
@@ -463,17 +525,9 @@ tosca
 
 ungusalem
 
-_ARIFA_
+_ARKANIA DRESS SIZE XXL_
 
-emerald
-
-ungumuda
-
-kuning
-
-maroon
-
-toscatua
+tosca
 
 _ARMIA_
 
@@ -507,17 +561,9 @@ dongker
 
 coksu
 
-_AISHA MUKENA_
-
-cream
-
 _ASFARA_
 
 hitam
-
-ungusalem
-
-broken white
 
 mint
 
@@ -536,10 +582,6 @@ hazelnut
 olive
 
 peach
-
-salem
-
-maroon
 
 _ASHITA DRESS SIZE M_
 
@@ -577,13 +619,9 @@ mauve
 
 _ASHMI_
 
-abu
-
 maroon
 
 khaky
-
-latte
 
 ungusalem
 
@@ -595,13 +633,7 @@ maroon
 
 pink
 
-hitam
-
-latte
-
 yellow
-
-navy
 
 olive
 
@@ -610,6 +642,18 @@ lilac
 grey
 
 hazelnut
+
+_ATHELIA DRESS SIZE M_
+
+apple green
+
+_ATHELIA DRESS SIZE XL_
+
+pink
+
+_ATHELIA DRESS SIZE XXL_
+
+pink
 
 _ATHIRA DRESS SIZE M_
 
@@ -629,13 +673,11 @@ hijau muda
 
 _AUFA_
 
-pink
+peach
 
 emerald
 
-peach
-
-cream
+cokmud
 
 _AUDY_
 
@@ -650,8 +692,6 @@ latte
 mauve
 
 hazelnut
-
-hitam
 
 dongker
 
@@ -671,13 +711,9 @@ mustrad
 
 _AURELI DRESS SIZE XL_
 
-white
-
 maroon
 
 mustrad
-
-mocca
 
 _AURELI DRESS SIZE XXL_
 
@@ -689,37 +725,123 @@ maroon
 
 mustrad
 
+_ARASELY DRESS SIZE M_
+
+salem
+
+black
+
+white
+
+mauve
+
+rose
+
+mocca
+
+_ARASELY DRESS SIZE XL_
+
+salem
+
+black
+
+white
+
+mauve
+
+mocca
+
+_ARASELY DRESS SIZE XXL_
+
+salem
+
+mauve
+
+rose
+
+mocca
+
+_AVELINE ABAYA_
+
+mint
+
+purple
+
+pink
+
+black
+
 _AZIRA_
 
 latte
 
 maroon
 
-_AZIMA_
-
-khaky
-
-_AZKARA_
-
-emerald
-
-salem
-
-navy
-
-latte
-
 _AZALIA DRESS SIZE XL_
 
 emerald
+
+_AZKARA_
+
+latte
+
+salem
+
+emerald
+
+dongker
 
 _AZMYA_
 
 hijautua
 
-coklat
+olive
 
-emerald
+maroon
+
+salem
+
+pink
+
+abu
+
+dongker
+
+hazelnut
+
+latte
+
+_AZQILA DRESS SIZE M_
+
+teracota
+
+_AZQILA DRESS SIZE XL_
+
+teracotta
+
+_AZYLA DRESS SIZE M_
+
+sage green
+
+latte
+
+hazelnut
+
+_AZYLA DRESS SIZE XL_
+
+latte
+
+hazelnut
+
+sage green
+
+_AZYLA DRESS SIZE XXL_
+
+latte
+
+hazelnut
+
+sage green
 
 _BELANCA SKIRT_
 
@@ -727,9 +849,25 @@ matcha green
 
 _BELAZA_
 
-coklat
-
 pink
+
+sand
+
+hijautua
+
+ungusalem
+
+stone
+
+dongker
+
+coklat muda
+
+abutua
+
+blue
+
+ungumuda
 
 _BELFINA PASHMINA_
 
@@ -741,31 +879,33 @@ _BELRISA_
 
 ungusalem
 
-hazelnut
-
 ungumuda
 
 olive
 
 stone
 
-_BERNIKA_
+_BELINDA_
 
-cokmil
+hitam
 
-ungu
+caramel
 
-cokmud
+latte
 
 abu
 
+ungudusty
+
+rose
+
+hazelnut
+
+milky brown
+
 pink
 
-maroon
-
-dongker
-
-ungu trasi
+coklat
 
 _BERLIA DRESS SIZE XL_
 
@@ -783,8 +923,6 @@ cream
 
 abu sma
 
-dongker
-
 _BERLINA XL_
 
 latte
@@ -797,7 +935,25 @@ hijau tua
 
 cream
 
+abu sma
+
+_BERNIKA_
+
 dongker
+
+cokmil
+
+abu
+
+cokmud
+
+ungu
+
+ungu trasi
+
+pink
+
+maroon
 
 _BIANCA BLOUSE SIZE M_
 
@@ -810,6 +966,16 @@ pink
 _BIANCA BLOUSE SIZE XXL_
 
 grey
+
+_BINAR MUKENA ANAK_
+
+orange
+
+emerald
+
+lime
+
+maroon
 
 _BRINA_
 
@@ -833,13 +999,21 @@ cokmud
 
 dongker
 
+_CASYA BABY_
+
+ungumuda
+
+rose
+
+hazelnut
+
+salem
+
 _CARISSA DRESS SIZE M_
 
 salem
 
 mint
-
-hazelnut
 
 grey
 
@@ -853,8 +1027,6 @@ _CARISSA DRESS SIZE XL_
 
 salem
 
-mint
-
 hazelnut
 
 grey
@@ -865,9 +1037,7 @@ pink
 
 sand
 
-teracotta
-
-hijau
+mint
 
 _CARISSA DRESS SIZE XXL_
 
@@ -888,6 +1058,26 @@ black
 _CAROL LEGGING WUDHU SIZE XL_
 
 latte
+
+hitam
+
+_CASSIE_
+
+latte
+
+dongker
+
+khaky
+
+mauve
+
+maroon
+
+hazelnut
+
+abu
+
+ungusalem
 
 _CASSAHAL DRESS SIZE M_
 
@@ -917,21 +1107,55 @@ pink
 
 _CASABLANCA VOAL_
 
-dark coffe
-
 aqua
 
-navy
+_CATALULA BABY_
 
-_CASSIE_
+hazelnut
 
-abu
+pink
+
+salem
+
+olive
+
+cokelat
+
+ungusalem
+
+black
+
+mauve
+
+maroon
+
+salmon
+
+mocca
+
+dark purple
 
 _CLASSICAL VOAL_
 
 wine
 
 green turqoise
+
+_CLARY BLAZER SIZE M_
+
+matcha green
+
+mocca
+
+salmon
+
+hazelnut
+
+_CLARY BLAZER SIZE XL_
+
+matcha green
+
+salmon
 
 _CHARLA ANAK SIZE L _
 
@@ -940,6 +1164,16 @@ brown
 _CEMORA TUNIK BABY_
 
 black
+
+_CANDRIKA_
+
+black
+
+teracotta
+
+broken white
+
+olive
 
 _CELESTA DRESS SIZE XL_
 
@@ -953,8 +1187,6 @@ ungumuda
 
 _CATLEYA DRESS M_
 
-navy
-
 teracota
 
 _CATLEYA DRESS SIZE XXL_
@@ -967,15 +1199,33 @@ ungumuda
 
 latte
 
-abu
-
-hazelnut
-
 maroon
 
 dongker
 
 pink
+
+_CAYSILA DRESS BABY_
+
+hitam
+
+abu
+
+dongker
+
+coklat
+
+mocca
+
+emerald
+
+maroon
+
+hazelnut
+
+latte
+
+salem
 
 _DAISY DRESS SIZE M_
 
@@ -999,21 +1249,9 @@ emerald
 
 _DENOVA_
 
-abu
+putih
 
-mauve
-
-latte
-
-olive
-
-khaky
-
-ungusalem
-
-maroon
-
-hazelnut
+coklat
 
 _DESYA_
 
@@ -1039,21 +1277,33 @@ mauve
 
 _DELLA_
 
-dongker
+hitam
 
-olive
-
-stone
-
-hazelnut
-
-salem
+maroon
 
 ungumuda
 
-_DELIFA DRESS SIZE XL_
+dongker
 
-Gold
+hazelnut
+
+rose
+
+stone
+
+ungusalem
+
+salem
+
+latte
+
+_DEFANY PIYAMA SIZE XXL_
+
+yellow
+
+putih
+
+_DELIFA DRESS SIZE XL_
 
 maroon
 
@@ -1099,8 +1349,6 @@ peach
 
 _DEYANA_
 
-olive
-
 maroon
 
 abu
@@ -1119,15 +1367,31 @@ hazelnut
 
 olive
 
-pink
-
 grey
+
+_DITYA_
+
+Abu tua
+
+dongker
+
+lime
+
+hitam
+
+latte
+
+hazelnut
+
+maroon
+
+emerald
+
+pink
 
 _DHARA_
 
 ungudusty
-
-purple
 
 baby pink
 
@@ -1169,13 +1433,7 @@ abu
 
 ungusalem
 
-latte
-
 khaky
-
-hazelnut
-
-mauve
 
 _DYARA_
 
@@ -1183,11 +1441,7 @@ maroon
 
 abu
 
-ungusalem
-
 dongker
-
-khaky
 
 latte
 
@@ -1201,21 +1455,25 @@ _ELDORA_
 
 abu
 
-dongker
-
-ungusalem
-
-mauve
-
-maroon
-
-khaky
-
-latte
+_ELNAURA ANAK_
 
 hazelnut
 
+khaky
+
+maroon
+
+mauve
+
+dongker
+
+latte
+
+ungusalem
+
 olive
+
+abu
 
 _EILA_
 
@@ -1223,29 +1481,27 @@ baby pink
 
 dustypink
 
-_ERENIA_
-
-maroon
-
-abu
-
-coksu
-
-kuning
-
-_ERVITA_
-
-grey
-
-purple
-
-pink
-
 _ELNADA_
 
 olive
 
 hijau salem
+
+salem
+
+pink
+
+maroon
+
+hitam
+
+dongker
+
+hazelnut
+
+abu
+
+kuning
 
 _ELLISE DRESS SIZE M_
 
@@ -1282,6 +1538,38 @@ latte
 green
 
 lavender
+
+_ERENIA_
+
+abu
+
+maroon
+
+mocca
+
+coksu
+
+kuning
+
+salem
+
+_ERVITA_
+
+grey
+
+purple
+
+pink
+
+_EYELASH PASHMINA_
+
+lime
+
+olive
+
+maroon
+
+dongker
 
 _EMERY_
 
@@ -1339,8 +1627,6 @@ _FARASYA DRESS SIZE M_
 
 maroon
 
-avocado
-
 soft purple
 
 dustypink
@@ -1351,8 +1637,6 @@ _FARASYA DRESS SIZE XL_
 
 soft purple
 
-dustypink
-
 latte
 
 avocado
@@ -1361,13 +1645,9 @@ _FARASYA DRESS SIZE XXL_
 
 soft purple
 
-dustypink
-
 avocado
 
 _FARLA_
-
-hitam
 
 abu
 
@@ -1385,15 +1665,11 @@ latte
 
 dongker
 
+khaky
+
 _FATIMAH DRESS SIZE XXL_
 
 yellow xxl
-
-_FATIRA_
-
-pink
-
-dongker
 
 _FAYOLA_
 
@@ -1415,23 +1691,13 @@ _FELDIYA_
 
 maroon
 
-hitam
-
-mauve
-
-dongker
-
 hazelnut
 
 khaky
 
 ungusalem
 
-abu
-
 olive
-
-latte
 
 _FEISYA_
 
@@ -1449,27 +1715,59 @@ olive
 
 _FEMILA_
 
+latte
+
+ungusalem
+
+hitam
+
+abu
+
+olive
+
 khaky
 
 maroon
+
+mauve
 
 hazelnut
 
 dongker
 
-olive
+_FIDELA_
 
-mauve
+pink
 
-latte
+_FIRDHA_
+
+emerald
+
+pink
+
+dusty pink
 
 abu
-
-ungusalem
 
 _FINENA_
 
 maroon
+
+dongker
+
+khaky
+
+mauve
+
+ungusalem
+
+latte
+
+hazelnut
+
+olive
+
+abu
 
 _FINERY VOAL_
 
@@ -1482,8 +1780,6 @@ _FIORELLA DRESS SIZE M_
 salem
 
 hazelnut
-
-mocca
 
 Sage green
 
@@ -1499,25 +1795,11 @@ _FIORELLA DRESS SIZE XXL_
 
 salem
 
-hitam
-
 hazelnut
 
 mocca
 
 Sage green
-
-_FIRDHA_
-
-dusty pink
-
-abumuda
-
-emerald
-
-dongker
-
-pink
 
 _FLORA_
 
@@ -1540,12 +1822,6 @@ hitam
 mauve
 
 olive
-
-khaky
-
-maroon
-
-ungsalem
 
 _FRISKA_
 
@@ -1571,8 +1847,6 @@ hazelnut
 
 grey
 
-salem
-
 _GEMMA DRESS SIZE XL_
 
 hazelnut
@@ -1580,8 +1854,6 @@ hazelnut
 grey
 
 salem
-
-rose
 
 mint
 
@@ -1597,10 +1869,6 @@ salem
 
 rose
 
-mint
-
-green
-
 _GHALIA_
 
 abutua
@@ -1612,6 +1880,22 @@ dongker
 bluesky
 
 ungudusty
+
+_GHEIZA DRESS SIZE M_
+
+silver
+
+_GHEIZA DRESS SIZE XL_
+
+silver
+
+_GHEIZA DRESS SIZE XXL_
+
+silver
+
+dusty purple
+
+hazel
 
 _GHEA DREES SIZE M_
 
@@ -1638,6 +1922,14 @@ maroon
 teracotta
 
 blue saphir
+
+_GRIVYNA PIYAMA SIZE XL_
+
+Maroon
+
+_GRIVYNA PIYAMA SIZE XXL_
+
+Maroon
 
 _GIVILIA_
 
@@ -1681,15 +1973,39 @@ salem
 
 grey
 
+_HANNAH SIZE XL_
+
+hazelnut
+
 _HALINKA_
+
+dongker
 
 cokmud
 
-_HARSHITA_
+bata
+
+_HARSITA_
+
+dongker
 
 kuning
 
-dongker
+_HIFZA_
+
+abu
+
+olive
+
+maroon
+
+coksu
+
+Salem
+
+kuning
+
+hazelnut
 
 _HANIN_
 
@@ -1711,6 +2027,12 @@ ungusalem
 
 pink
 
+_HAVIKA DRESS SIZE XL_
+
+Maroon
+
+grey
+
 _HAZZA DRESS SIZE M_
 
 maroon
@@ -1723,19 +2045,11 @@ maroon
 
 _HESTIA_
 
-dongker
-
-mauve
-
 olive
 
 maroon
 
 abu
-
-latte
-
-hazelnut
 
 khaky
 
@@ -1743,37 +2057,13 @@ _HIKARI_
 
 latte
 
-hazelnut
-
 maroon
 
 abu
-
-dongker
-
-ungusalem
 
 khaky
 
 olive
-
-_HIFZA_
-
-maroon
-
-latte
-
-salem
-
-olive
-
-hazelnut
-
-abu
-
-caramel
-
-kuning
 
 _HILYA_
 
@@ -1817,23 +2107,27 @@ maroon
 
 _INAYRA_
 
+hazelnut
+
+hitam
+
+latte
+
+abu
+
+dongker
+
 olive
 
 khaky
 
-dongker
-
-latte
-
 ungusalem
-
-hazelnut
 
 maroon
 
-_INTANIA_
+mauve
 
-stone
+_INTANIA_
 
 maroon
 
@@ -1866,8 +2160,6 @@ dongker
 abu
 
 hazelnut
-
-latte
 
 maroon
 
@@ -1933,15 +2225,111 @@ abu
 
 dongker
 
-_JESSIE_
+_JIHAN DRESS SIZE XL_
 
-hijautua
+peach
+
+_JIHAN DRESS SIZE XXL_
+
+peach
+
+_JEANNA SIZE M_
+
+bluesky
+
+_JEANNA SIZE XL_
+
+bluesky
+
+_JEANNA SIZE XXL_
+
+bluesky
+
+_JEMIA_
+
+abu
+
+hazelnut
+
+maroon
+
+ungusalem
 
 olive
+
+caramel
+
+khaky
+
+pink
+
+coklat
+
+ungudusty
+
+_JESSIE_
+
+hitam
+
+bw
+
+coklat
+
+bata
+
+maroon
+
+latte
+
+coklat muda
+
+rose
+
+ungumuda
+
+_JESLYN_
+
+dongker
+
+pink
+
+lilac
+
+hazelnut
+
+olive
+
+abu
+
+maroon
 
 _KAESA_
 
 emerald
+
+_KAIYA BLOUSE SIZE M_
+
+salem
+
+latte
+
+mint
+
+mauve
+
+_KAIYA BLOUSE SIZE XL_
+
+hazelnut
+
+salem
+
+sage green
+
+latte
+
+white
+
+mauve
 
 _KARIMA DRESSSIZE M_
 
@@ -1950,8 +2338,6 @@ salem
 rose
 
 grey
-
-sage green
 
 _KARIMA DRESSSIZE XL_
 
@@ -1965,13 +2351,15 @@ _KARIMA DRESSSIZE XXL_
 
 salem
 
-sage green
+_KARNINA DRESS_
+
+latte
+
+rosepink
+
+hazelnut
 
 _KAMALA_
-
-fuschia
-
-dongker
 
 abu
 
@@ -1985,15 +2373,33 @@ mauve
 
 hazelnut
 
+_KAMYA_
+
+blue
+
+_KIMMY_
+
+abutua
+
+blue sky
+
+kuning
+
+ungudusty
+
+maroon
+
+dongker
+
+_KIYOKO_
+
+kuning
+
 _KAMALIA_
 
 maroon
 
 salmon
-
-_KAMYA_
-
-blue
 
 _KANIA_
 
@@ -2005,13 +2411,11 @@ pink
 
 _KAYLANA_
 
-stone
-
-dongker
-
 maroon
 
 hazelnut
+
+stone
 
 _KANAYA_
 
@@ -2020,8 +2424,6 @@ ungusalem
 emerald
 
 _KAVITA_
-
-maroon
 
 olive
 
@@ -2033,13 +2435,19 @@ mauve
 
 hazelnut
 
-hitam
-
 dongker
 
 ungusalem
 
 abu
+
+_KATYA DRESS SIZE M_
+
+hazelnut
+
+pink
+
+denim
 
 _KATYA DRESS SIZE XL_
 
@@ -2073,7 +2481,29 @@ ungusalem
 
 stone
 
+rose
+
 hazelnut
+
+_KEIRAN_
+
+emerald
+
+latte
+
+hazelnut
+
+abutua
+
+dongker
+
+maroon
+
+_KEMALA DRESS SIZE M_
+
+yellow
+
+emerald
 
 _KINAN_
 
@@ -2085,8 +2515,6 @@ hazelnut
 
 grey
 
-blue
-
 _KINANTI DRESS SIZE XL_
 
 mauve
@@ -2097,11 +2525,7 @@ salem
 
 rose
 
-blue
-
 _KINANTI DRESS SIZE XXL_
-
-mauve
 
 grey
 
@@ -2143,7 +2567,7 @@ _KHALSYA_
 
 ungusalem
 
-latte
+stone
 
 _KHALIDA_
 
@@ -2167,15 +2591,9 @@ denim
 
 salmon
 
-maroon
-
 sage green
 
-black
-
 _KHANSA DRESS SIZE XL_
-
-denim
 
 salmon
 
@@ -2187,39 +2605,15 @@ black
 
 _KHANSA DRESS SIZE XXL_
 
-denim
-
-salmon
-
 maroon
 
 sage green
-
-black
-
-_KIMMY REMAJA_
-
-bluesky
-
-abumuda
-
-kuning
-
-abutua
-
-ungudusty
 
 _KIREI_
 
 abumuda
 
 maroon
-
-_KIYOKO_
-
-kuning
-
-silver
 
 _KYNA_
 
@@ -2235,25 +2629,11 @@ flower pink
 
 flower hazelnut
 
-_LAVEYA VOAL_
-
-cream
-
-maroon
-
-teal blue
-
-_LALEA_
-
-kuning
-
 _LALISA_
 
 maroon
 
 abu
-
-dongker
 
 latte
 
@@ -2271,29 +2651,11 @@ _LATTEA DRESS SIZE M_
 
 maroon
 
-abu
-
-_LATTEA DRESS SIZE XL_
-
-maroon
-
-abu
-
-_LATTEA DRESS SIZE XXL_
-
-abu
-
 _LAUDYA_
-
-hazelnut
 
 salmon
 
-khaky
-
 ungumuda
-
-hitam
 
 abu
 
@@ -2315,25 +2677,15 @@ mauve
 
 soft denim
 
-_LAVIRA_
-
-dongker
-
-pink
-
 _LAVINA_
 
 ungusalem
-
-mauve
 
 olive
 
 khaky
 
 abu
-
-dongker
 
 latte
 
@@ -2377,19 +2729,63 @@ maroon
 
 _LESVIA DRESS SIZE XL_
 
-hazelnut
-
 blue
-
-mint
 
 _LESVIA DRESS SIZE XXL_
 
 hazelnut
 
-blue
-
 mint
+
+_LESTYA_
+
+kuning
+
+ungu
+
+olive
+
+_LAYNA_
+
+caramel
+
+abu
+
+pink
+
+hazelnut
+
+khaky
+
+ungudusty
+
+olive
+
+ungusalem
+
+maroon
+
+coklat
+
+hitam
+
+_LIZZI_
+
+cokmil
+
+olive
+
+_LOZI_
+
+cream
+
+maroon
+
+cokmil
+
+emerald
+
+kuning
 
 _LETICIA DRESS BABY_
 
@@ -2407,55 +2803,65 @@ olive
 
 grey
 
-black
-
 broken white
 
 mauve
 
-_LIZZI_
-
-coksu
-
-cokmil
-
-_LOZI_
-
-maroon
-
-kuning
-
-cream
+_LIVY DRESS ANAK SIZE M_
 
 emerald
 
-cokmil
+maroon
 
-_LULA ANAK_
+pink
 
-hazelnut
+lime
 
-khaky
+orange
 
-abu
+_LIVY DRESS ANAK SIZE XL_
 
-mauve
+emerald
 
-olive
+maroon
+
+pink
+
+lime
+
+orange
+
+_LUCIANA_
+
+coklat
 
 hitam
 
+abu
+
+ungusalem
+
+latte
+
 dongker
 
+olive
+
 maroon
+
+beige
+
+_LULA ANAK_
+
+khaky
+
+olive
 
 _LUBNA_
 
 maroon
 
 khaky
-
-mauve
 
 _LUNARA_
 
@@ -2464,6 +2870,26 @@ tosca muda
 kuning
 
 olive
+
+_LUIHARA DRESS SIZE M_
+
+lime
+
+bluesky
+
+_LUIHARA DRESS SIZE XL_
+
+lime
+
+blue sky
+
+mustard
+
+_LUIHARA DRESS SIZE XXL_
+
+mauve
+
+blue sky
 
 _LORENIA_
 
@@ -2503,11 +2929,23 @@ _MAGHFIRA_
 
 latte
 
+hazelnut
+
+olive
+
 maroon
 
-mauve
+hitam
+
+khaky
+
+abu
+
+dongker
 
 ungusalem
+
+mauve
 
 _MAHILA_
 
@@ -2541,6 +2979,44 @@ _MALINDA DRESS SIZE XXL_
 
 maroon
 
+mauve
+
+_MALDIVA DRESS SIZE M_
+
+lime
+
+sage green
+
+mauve
+
+denim
+
+hazelnut
+
+_MALDIVA DRESS SIZE XL_
+
+lime
+
+sage green
+
+mauve
+
+denim
+
+hazelnut
+
+_MALDIVA DRESS SIZE XXL_
+
+lime
+
+sage green
+
+mauve
+
+denim
+
+hazelnut
+
 _MALIHA CHAIN SIZE M_
 
 Chain Yellow
@@ -2557,12 +3033,6 @@ _MALIHA CHAIN SIZE XXL_
 
 Chain Red
 
-_MARITA_
-
-tosca
-
-bata
-
 _MAUREL_
 
 dongker
@@ -2570,8 +3040,6 @@ dongker
 pink
 
 cokmud
-
-kuning
 
 _MASITA_
 
@@ -2585,11 +3053,7 @@ olive
 
 abu
 
-hazelnut
-
 _MARIZKA SIZE M_
-
-mocca
 
 lime
 
@@ -2609,10 +3073,6 @@ _MARIZKA SIZE XXL_
 
 lime
 
-_MAEZURA KAFTAN_
-
-grey
-
 _MAZIA_
 
 muave
@@ -2625,8 +3085,6 @@ khaky
 
 maroon
 
-hitam
-
 hazelnut
 
 dongker
@@ -2635,11 +3093,33 @@ ungusalem
 
 olive
 
+_MARITA_
+
+tosca
+
+_MAFAZA_
+
+maroon
+
+blue sky
+
 _MELINA_
 
 kuning
 
 abu
+
+_MILANKA_
+
+ungumuda
+
+_MISWAH_
+
+emerald
+
+peach
+
+olive
 
 _MECCA DRESS SIZE M_
 
@@ -2647,15 +3127,19 @@ pink
 
 maroon
 
+_MERIDA DRESS DEWASA SIZE M_
+
+yellow
+
+blue
+
+pink
+
 _MIHNAZ_
 
 peach
 
 maroon
-
-_MILANKA_
-
-ungumuda
 
 _MIRANTI DRESS_
 
@@ -2695,13 +3179,7 @@ _MOIRA_
 
 latte
 
-mauve
-
 maroon
-
-abu
-
-dongker
 
 _MINDY PASHMINA_
 
@@ -2733,6 +3211,10 @@ _MUKENA AMIZAH_
 
 silver
 
+_MUKENA ALIQA_
+
+denim
+
 _MUKENA ARAFAH_
 
 black
@@ -2742,10 +3224,6 @@ khaky
 teracotta
 
 maroon
-
-olive
-
-cream
 
 _MUKENA LAYSA ANAK SIZE M_
 
@@ -2763,9 +3241,35 @@ grey
 
 mauve
 
+_MUKENA LUMINA_
+
+navy tulip
+
+navy daisy
+
 _MUKENA MELVIN SIZE M_
 
 yellow
+
+_MUKENA NADEEA_
+
+black
+
+denim
+
+hazelnut
+
+latte
+
+salem
+
+mocca
+
+purple
+
+grey
+
+cream
 
 _MUKENA NAJLA_
 
@@ -2773,19 +3277,41 @@ maroon
 
 olive
 
+_MUKENA NAZIRA_
+
+hazelnut
+
+black
+
+navy
+
+maroon
+
+_MUKENA NIDYA_
+
+khaky
+
+ungusalem
+
+maroon
+
 _MUKENA RAIHANA_
 
 olive
 
 lilac
 
+_MUKENA RAISYA_
+
+navy
+
+maroon
+
 _MUKENA RAINA_
 
 dustypurple
 
 fuschia
-
-white
 
 _MUKENA RONA_
 
@@ -2833,9 +3359,19 @@ pink
 
 NABIL
 
-ungumuda
+latte
+
+bata
+
+salem
 
 rose
+
+maroon
+
+hazelnut
+
+ungumuda
 
 _NADIYAH_
 
@@ -2879,6 +3415,22 @@ emerald
 
 pink
 
+_NAZRA_
+
+emerald
+
+dongker
+
+_NIVYA_
+
+silver
+
+peach
+
+_NOVALIA_
+
+peach
+
 _NALISSA_
 
 bluesky
@@ -2899,29 +3451,45 @@ pink
 
 _NATALIE_
 
-olive
+hitam
+
+abu
 
 latte
 
-hazelnut
-
-abu
-
 maroon
+
+khaky
 
 ungusalem
 
+hazelnut
+
+dongker
+
 mauve
 
-khaky
+olive
 
 _NATAYA_
 
-khaky
-
 abu
 
+mauve
+
+dongker
+
+latte
+
 maroon
+
+olive
+
+khaky
+
+ungusalem
+
+hazelnut
 
 _NATASHA TUNIK M_
 
@@ -2953,6 +3521,20 @@ maroon
 
 tosca
 
+_NAYMIRA DRESS SIZE M_
+
+maroon
+
+sage green
+
+_NAYMIRA DRESS SIZE XL_
+
+sage green
+
+_NAYMIRA DRESS SIZE XXL_
+
+hazelnut
+
 _NAYAKA DRESS SIZE M_
 
 blue
@@ -2960,8 +3542,6 @@ blue
 pink
 
 emerald
-
-peach
 
 _NAYAKA DRESS SIZE XL_
 
@@ -2999,17 +3579,23 @@ _NAYSILA DRESS XXXL_
 
 olive
 
-_NAZRA_
+_NEINA_
 
 emerald
 
 dongker
 
+abu tua
+
+hazelnut
+
+pink
+
+maroon
+
 _NERISSA_
 
 hitam
-
-mauve
 
 dongker
 
@@ -3020,8 +3606,6 @@ ungusalem
 ungudusty
 
 hazelnut
-
-mocca
 
 cream
 
@@ -3055,8 +3639,6 @@ maroon
 
 khaky
 
-olive
-
 _NIRMALA BABY_
 
 grey
@@ -3083,17 +3665,35 @@ _NIVYA_
 
 silver
 
+peach
+
 denim
+
+_NAZALEYA DRESS SIZE M_
+
+yellow
+
+maroon
+
+_NAZALEYA DRESS SIZE XL_
+
+navy
+
+yellow
+
+maroon
+
+_NAZALEYA DRESS SIZE XXL_
+
+yellow
+
+maroon
 
 _NAZKA PASHMINA_
 
 silver
 
 dusty purple
-
-_NOVALIA_
-
-peach
 
 _ORLINDA DRESS SIZE M_
 
@@ -3102,24 +3702,6 @@ pink
 _ORLINDA DRESS SIZE XL_
 
 pink
-
-_ORISHA_
-
-dongker
-
-abu muda
-
-salem
-
-emerald
-
-kuning
-
-ungu muda
-
-maroon
-
-abutua
 
 _ODELIA DRESS SIZE M_
 
@@ -3135,71 +3717,35 @@ silver
 
 purple
 
-olive
+teracota
 
 _ODELIA DRESS SIZE XXL_
-
-latte
 
 teracota
 
 silver
 
-_PASHMINA EYELASH_
+_ORISHA_
 
-olive
-
-navy
+emerald
 
 maroon
-
-khaky
-
-_PASHMINA SABRINA SMOKE_
-
-navy
-
-peach
-
-mint
-
-soft yellow
-
-dusty pink
 
 pink
 
-maroon
+ungumuda
 
-cream
+kuning
 
-soft peach
+abumuda
 
-silver
+dongker
+
+abutua
 
 _PASHMINA SONYA_
 
 olive
-
-_PASHMINA ZEVVA_
-
-cream
-
-olive
-
-ungusalem
-
-stone
-
-maroon
-
-hazelnut
-
-dongker
-
-hijau salem
-
-mauve
 
 _PEONY HOME DRESS S_
 
@@ -3271,31 +3817,17 @@ _RAFANIA_
 
 latte
 
-salem
-
-mocca
-
-maroon
-
-_RAFELIA_
-
-hitam
-
-abu
-
-mauve
-
-olive
+emerald
 
 hazelnut
 
-latte
+coklat
 
-khaky
+_RAFELIA_
+
+hazelnut
 
 maroon
-
-ungusalem
 
 dongker
 
@@ -3303,21 +3835,13 @@ _RAJNI_
 
 maroon
 
-guava
-
 pink
 
 abu
 
-ungusalem
-
 mauve
 
 _RARA_
-
-stone
-
-ungusalem
 
 rose
 
@@ -3327,9 +3851,9 @@ hazelnut
 
 coklat muda
 
-olive
-
 salem
+
+stone
 
 _RALINE_
 
@@ -3355,9 +3879,27 @@ _RATIFA_
 
 peach
 
-hijaumuda
+hijau muda
 
-maroon
+_RAZANI_
+
+silver
+
+denim
+
+peach
+
+dusty purple
+
+_REGINA_
+
+kuning
+
+hijau muda
+
+_RUMYA_
+
+pink
 
 _REVALIA_
 
@@ -3433,16 +3975,6 @@ _RAUFA KRIWIL_
 
 tosca
 
-_RAZANI_
-
-denim
-
-peach
-
-mauve
-
-silver
-
 _REFITA_
 
 tosca
@@ -3450,12 +3982,6 @@ tosca
 _RENIKA_
 
 hitam
-
-latte
-
-olive
-
-ungusalem
 
 khaky
 
@@ -3515,41 +4041,9 @@ _RUMIYA MOTIF_
 
 pink
 
-_SABIQA_
-
-abu
-
-olive
-
-ungusalem
-
-khaky
-
-mauve
-
-latte
-
-maroon
-
-_SACHI_
-
-abu
-
-olive
-
-hazelnut
-
-maroon
-
-khaky
-
-ungusalem
-
 _SADIRA_
 
 khaky
-
-hazelnut
 
 mauve
 
@@ -3564,6 +4058,78 @@ yellow
 _SALLY_
 
 maroon
+
+_SABRINA PASHMINA_
+
+navy
+
+peach
+
+mint
+
+soft yellow
+
+dusty pink
+
+pink
+
+maroon
+
+cream
+
+soft peach
+
+silver
+
+_MUKENA SERENA_
+
+hazelnut
+
+khaky
+
+maroon
+
+pink
+
+_SYAFA_
+
+cream
+
+_SERRY_
+
+pink
+
+cream
+
+bata
+
+olive
+
+ungu
+
+abutua
+
+hazelnut
+
+dongker
+
+abumuda
+
+_SHAFWANA_
+
+emerald
+
+dongker
+
+kuning
+
+abu
+
+maroon
+
+_STARLA_
+
+coksu
 
 _SAJADAH TRAVEL_
 
@@ -3603,37 +4169,35 @@ hijau salem
 
 latte
 
-stone
-
 mauve
 
 _SAVORA_
 
-khaky
-
-mauve
-
-olive
-
-ungusalem
-
 hitam
+
+maroon
 
 latte
 
 hazelnut
 
-maroon
+dongker
+
+khaky
 
 abu
+
+olive
+
+ungusalem
+
+mauve
 
 _SAKIYYA_
 
 pink
 
 dongker
-
-guava
 
 latte
 
@@ -3643,11 +4207,13 @@ merah
 
 _SAKURA VOAL_
 
-black
-
 wine
 
 navy
+
+black
+
+grey
 
 _SASMITA DRESS SIZE M_
 
@@ -3677,43 +4243,29 @@ _SEINA_
 
 maroon
 
-abu
+khaky
+
+_SELVIE_
+
+olive
+
+khaky
+
+mauve
+
+hitam
+
+hazelnut
 
 ungusalem
 
 latte
 
-olive
-
-khaky
-
-_SERRY_
-
-abumuda
-
-bata
-
-pink
-
-olive
-
-abutua
-
-ungu
-
-hazelnut
-
-cream
+maroon
 
 dongker
 
-_SELVIE_
-
 abu
-
-khaky
-
-maroon
 
 _SENNA VOAL_
 
@@ -3725,33 +4277,13 @@ maroon
 
 pns
 
-latte
-
 mauve
 
 cream
 
-Sage green
-
-teal blue
-
-_SHAFWANA_
-
-maroon
-
-dongker
-
-emerald
-
-kuning
-
-hitam
-
 _SHAKA KOKO ANAK SIZE M_
 
 latte
-
-ungumuda
 
 deep purple
 
@@ -3871,6 +4403,36 @@ olive
 
 black
 
+_SHAWLA DRESS SIZE M_
+
+teracota
+
+denim
+
+hazelnut
+
+olive
+
+_SHAWLA DRESS SIZE XL_
+
+teracota
+
+denim
+
+hazelnut
+
+olive
+
+_SHAWLA DRESS SIZE XXL_
+
+teracota
+
+denim
+
+hazelnut
+
+olive
+
 _SHERLY_
 
 pink
@@ -3911,8 +4473,6 @@ dongker
 
 maroon
 
-salem
-
 hazelnut
 
 _SIERRA_
@@ -3949,7 +4509,7 @@ purple
 
 sage green
 
-hitam
+maroon
 
 _SOFYA DRESS XXXL_
 
@@ -3965,9 +4525,25 @@ sage green
 
 maroon
 
-_STARLA_
+_SUNNY ONE SET SIZE M_
 
-coksu
+lilac
+
+peach
+
+mint
+
+_SUNNY ONE SET SIZE XL_
+
+mint
+
+lilac
+
+peach
+
+_SUNNY ONE SET SIZE XXL_
+
+peach
 
 _SUZY OUTER_
 
@@ -3975,9 +4551,11 @@ grey
 
 pink
 
-_SYAFA_
+_SYAHIRA MUKENA ANAK_
 
-cream
+green
+
+hazelnut
 
 _SYAHNA_
 
@@ -3993,39 +4571,27 @@ abu
 
 maroon
 
-ungusalem
-
-mauve
-
 dongker
 
 khaky
 
 _SYARLA_
 
-hitam
-
 broken white
 
 grey
-
-olive
-
-mauve
 
 _SYAZANI_
 
 olive
 
-mauve
-
-latte
-
 maroon
 
 abu
 
-khaky
+_TAMARA_
+
+yellow
 
 _TARA_
 
@@ -4045,15 +4611,33 @@ _TAVIA_
 
 ungu muda
 
+olive
+
+dongker
+
+latte
+
+bata
+
+broken white
+
+rose
+
+maroon
+
+salem
+
+hitam
+
+_TASHFIYA DRESS SIZE M_
+
 hazelnut
 
-_TAMARA_
+latte
 
-yellow
+salem
 
-_TANAYA_
-
-hazelnut
+mocca
 
 _TANIA_
 
@@ -4097,23 +4681,37 @@ yellow
 
 olive
 
-_TESSA_
+_TARISHA_
 
-mocca
+mauve
+
+abu
 
 dongker
 
-emerald
+olive
+
+ungusalem
+
+latte
+
+hazelnut
+
+hijau salem
+
+coklat
+
+_TESSA_
+
+mocca
 
 coklat
 
 _THAFANA_
 
-broken white
-
-salem
-
 rose
+
+stone
 
 olive
 
@@ -4123,11 +4721,13 @@ dongker
 
 ungumuda
 
-hitam
-
-stone
-
 hazelnut
+
+broken white
+
+salem
+
+maroon
 
 _THALIA DRESS SIZE M_
 
@@ -4138,8 +4738,6 @@ yellow
 _TRESIA_
 
 abu
-
-hitam
 
 pink
 
@@ -4213,31 +4811,85 @@ flower black
 
 flower blue
 
+_VELIRA_
+
+hitam
+
+dongker
+
+abu
+
+hazelnut
+
+maroon
+
+khaky
+
+latte
+
+mauve
+
+ungusalem
+
+olive
+
 _VIDYA_
 
 latte
 
 abu
 
-hazelnut
-
 ungusalem
+
+_VIERA DRESS SIZE M_
+
+lilac
+
+pink
+
+blue
+
+orange
+
+teracotta
+
+_VIERA DRESS SIZE XL_
+
+blue
+
+orange
+
+lilac
+
+_VIERA DRESS SIZE XXL_
+
+blue
+
+orange
 
 _VINDY_
 
 maroon
 
-mauve
+ungusalem
+
+emerald
 
 latte
 
-dongker
+hitam
 
 abu
 
-ungusalem
-
 khaky
+
+hazelnut
+
+mauve
+
+dongker
+
+olive
 
 _VINELLA_
 
@@ -4251,15 +4903,9 @@ latte
 
 _VINKA_
 
-hitam
-
-ungusalem
-
 latte
 
 mauve
-
-dongker
 
 abu
 
@@ -4270,6 +4916,8 @@ khaky
 hazelnut
 
 maroon
+
+bw
 
 _VIONITA_
 
@@ -4293,7 +4941,7 @@ _VIORA SKIRT_
 
 salmon
 
-_VOAL FLOWER CASTLE_
+_VOAL CASTLE_
 
 forest beige
 
@@ -4351,8 +4999,6 @@ pink
 
 coklat
 
-navy
-
 grey
 
 rose
@@ -4365,15 +5011,29 @@ latte
 
 caramel
 
+hitam
+
 _VEVILA_
 
-sage green
+emerald
 
 maroon
 
 olive
 
 peach
+
+dongker
+
+ungusalem
+
+latte
+
+hazelnut
+
+salem
+
+lime
 
 _VIRELIA_
 
@@ -4401,15 +5061,27 @@ _WANDA_
 
 khaky
 
-ungusalem
+_WINONA DRESS SIZE M_
 
-_YASMEERA_
+silver
+
+_YUFIE_
+
+mauve
+
+latte
+
+maroon
+
+hazelnut
 
 olive
 
-salem
+ungusalem
 
-ungu
+khaky
+
+abu
 
 _YASMI_
 
@@ -4421,25 +5093,41 @@ dongker
 
 abu
 
-_YUNNA_
+_YASMERA_
 
-dongker
+olive
 
-pink
-
-ungumuda
-
-maroon
+ungu
 
 _YURE VOAL_
 
 khaky
 
+_YOSHITA_
+
+maroon
+
+dongker
+
+hitam
+
+khaky
+
+olive
+
+abu
+
+mauve
+
+hazelnut
+
+latte
+
+ungusalem
+
 _ZAFASYA DRESS SIZE XXL_
 
 black
-
-cream
 
 _ZAFIRA CADAR_
 
@@ -4461,15 +5149,9 @@ hijau
 
 pink
 
-salem
-
-hitam
-
 abu
 
 dongker
-
-latte
 
 olive
 
@@ -4479,11 +5161,25 @@ _ZAIMA_
 
 abu
 
-ungusalem
-
-olive
-
 khaky
+
+_ZAINARA DRESS SIZE M_
+
+maroon
+
+navy
+
+_ZAINARA DRESS SIZE XL_
+
+maroon
+
+navy
+
+_ZAINARA DRESS SIZE XXL_
+
+navy
+
+maroon
 
 _ZALEA DRESS SIZE M_
 
@@ -4493,23 +5189,33 @@ _ZEFIRA_
 
 hijau tua
 
-mauve
-
-_ZENALISA_
-
-abu
-
 dongker
-
-khaky
-
-maroon
 
 hazelnut
 
 olive
 
-_ZENDAYA_
+pink
+
+maroon
+
+abu
+
+_ZETHA_
+
+maroon
+
+_ZEVANYA DRESS M_
+
+blue
+
+_ZEHMA_
+
+maroon
+
+pink
+
+_ZENDAYA PASHMINA_
 
 olive
 
@@ -4521,13 +5227,37 @@ lilac
 
 maroon
 
-_ZETHA_
+_ZEVVA PASHMINA_
+
+cream
+
+olive
+
+ungusalem
+
+stone
 
 maroon
 
-_ZEVANYA DRESS M_
+hazelnut
 
-blue
+dongker
+
+hijau salem
+
+mauve
+
+_ZULFA_
+
+tosmud
+
+_ZULLY_
+
+emerald
+
+kuning
+
+olive
 
 _ZEHNIA_
 
@@ -4546,8 +5276,6 @@ ungusalem
 mauve
 
 latte
-
-hazelnut
 
 olive
 
@@ -4571,6 +5299,8 @@ maroon
 
 mauve
 
+hitam
+
 _ZETIRA SQUARE_
 
 cream
@@ -4579,13 +5309,29 @@ maroon
 
 stone
 
-olive
+lime
+
+lilac
+
+mauve
+
+hazelnut
+
+_ZIVARA ABAYA SIZE M_
+
+maroon
+
+peach
+
+_ZIVARA ABAYA SIZE XL_
+
+maroon
+
+peach
 
 _ZIARA_
 
 tosmud
-
-silver
 
 _ZIGGY_
 
@@ -4601,8 +5347,6 @@ hazelnut
 
 latte
 
-cokmil
-
 hitam
 
 _ZIVIA DRESS SIZE XL_
@@ -4613,8 +5357,34 @@ _ZIVIA DRESS SIZE XXL_
 
 polka yellow
 
-_ZULLY_
+_ZULIMA DRESS SIZE M_
 
-kuning
+soft denim
 
-emerald
+denim
+
+grey
+
+mocca
+
+hazelnut
+
+_ZULIMA DRESS SIZE XL_
+
+soft denim
+
+mocca
+
+_ZULIMA DRESS SIZE XXL_
+
+mocca
+
+soft denim
+
+_ZOANA KULOT BABY_
+
+salem
+
+hazelnut
+
+Sage green
